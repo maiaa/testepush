@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "884390043173",
+    "firebase_url": "https://comedouro-2c048.firebaseio.com",
+    "project_id": "comedouro-2c048",
+    "storage_bucket": "comedouro-2c048.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884390043173:android:74994ad927a8907c",
+        "android_client_info": {
+          "package_name": "com.ifsc.comedouro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884390043173-7vaak6jt13kst7m0h91vttk9nmp88j6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwiO55aPtNiLqDVRMhPkagtBAZYI4dacQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
